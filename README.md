@@ -6,4 +6,4 @@ As a seasoned Data Engineer, I specialize in architecting and implementing scala
 - B.E., Computer Systems Engineering | Mehran University Of Engineering & Technology (_2016 - 2020_)
 
 ## WORK EXPERIENCE
-**Data Data @ Jeeny (_Sep 2023 - Present_)**
+**Data Engineer @ Jeeny (_Sep 2023 - Present_)**
