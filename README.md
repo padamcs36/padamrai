@@ -16,3 +16,29 @@ through validation checks. Transfer validated data from staging to production ta
 -	Led the migration of ETL processes from Pandas to PySpark, achieving a 30% reduction in processing time. Upgraded Python
 2 ETL scripts to Python 3, improving code readability and optimization.
 
+**ETL Developer @ Leopard Courier Services (_Mar 2023 - Sep 2023_)**
+-	Designed and implemented efficient ETL processes to extract data from various sources, including databases, APIs, flat files, 
+and load it into data warehouse.
+-	Performed data cleansing, transformation, and enrichment using SQL, Python, Pandas to ensure data quality and consistency.
+-	Developed and maintained data integration workflows to consolidate data from multiple sources and systems, ensuring 
+seamless data flow across the organization.
+-	Optimized ETL processes for performance, scalability, and reliability, including tuning queries and ensuring efficient 
+resource utilization.
+-	Conducted thorough testing and validation of ETL processes to ensure accuracy, completeness, and reliability of the data.
+-	Implement automation solutions using SQL Server agent to streamline ETL processes and reduce manual intervention.
+
+**BI Developer @ GCS Pvt Ltd (_Jul 2022 - Mar 2023_)**
+-	Worked with stakeholders to gather requirements, understand business needs, and translate them into technical 
+specifications for BI solutions.
+-	Designed, developed, and maintained BI reports, dashboards, and visualizations using Pentaho CDE and LinceBI.
+-	 Improved database performance by implementing indexing strategies, reduced processing time by 25%.
+-	Optimized BI solutions for performance, scalability, and usability, including query tuning and dashboard design.
+-	Led the performance optimization of 100+ visualizations, enhancing usability by 30%.
+
+**Data Analyst @ M3 Technologies Pakistan (_Feb 2021 - Jul 2022_)**
+-	Collaborated with stakeholders to gather and understand data requirements for analysis.
+-	Use Logstash to extract, transform, and load data from various sources into a Elasticsearch.
+-	Developed interactive and insightful dashboards in Kibana to visualize data and support decision-making.
+-	Optimized SQL queries for performance to ensure efficient data retrieval and processing.
+-	Created and maintained database views and stored procedures to streamline complex data operations and 
+
