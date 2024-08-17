@@ -40,5 +40,18 @@ specifications for BI solutions.
 -	Use Logstash to extract, transform, and load data from various sources into a Elasticsearch.
 -	Developed interactive and insightful dashboards in Kibana to visualize data and support decision-making.
 -	Optimized SQL queries for performance to ensure efficient data retrieval and processing.
--	Created and maintained database views and stored procedures to streamline complex data operations and 
+-	Created and maintained database views and stored procedures to streamline complex data operations and analysis.
+
+## SKILLS
+- Python - Pyspark - Power BI - Apache Airflow - ETL - Pandas/Numpy
+-	SQL Server, MySQL - MongoDb - Elasticsearch, Kibana - Apache Kafka
+-	Azure Blob Storage, Azure Data Factory, S3 Bucket - SQL/T-SQL
+-	Azure Data Factory, Azure Synapse Analytics - Power BI/ Pentaho CDE
+
+## CERTIFICATIONS
+- Python For Machine Learning with Numpy, Pandas & Matplotlib - **Udemy** [https://www.udemy.com/certificate/UC-e04c86f3-54ef-42c4-a82f-fd380bdb2f1d/]
+- Python 3 Programming Specialization - **Coursera** [https://www.coursera.org/account/accomplishments/specialization/certificate/8TBJ8HAVA3KY]
+- Master in Microsoft Power BI Desktop and Service - **Udemy** [https://www.udemy.com/certificate/UC-714ee834-500a-4118-bb9e-23467625c91c/]
+- 
+
 
