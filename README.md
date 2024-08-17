@@ -49,9 +49,9 @@ specifications for BI solutions.
 -	Azure Data Factory, Azure Synapse Analytics - Power BI/ Pentaho CDE
 
 ## CERTIFICATIONS
-- Python For Machine Learning with Numpy, Pandas & Matplotlib - **Udemy** [https://www.udemy.com/certificate/UC-e04c86f3-54ef-42c4-a82f-fd380bdb2f1d/]
-- Python 3 Programming Specialization - **Coursera** [https://www.coursera.org/account/accomplishments/specialization/certificate/8TBJ8HAVA3KY]
-- Master in Microsoft Power BI Desktop and Service - **Udemy** [https://www.udemy.com/certificate/UC-714ee834-500a-4118-bb9e-23467625c91c/]
-- 
+- [Python For Machine Learning with Numpy, Pandas & Matplotlib - **Udemy**](https://www.udemy.com/certificate/UC-e04c86f3-54ef-42c4-a82f-fd380bdb2f1d/)
+- [Python 3 Programming Specialization - **Coursera**](https://www.coursera.org/account/accomplishments/specialization/certificate/8TBJ8HAVA3KY])
+- [Master in Microsoft Power BI Desktop and Service - **Udemy**](https://www.udemy.com/certificate/UC-714ee834-500a-4118-bb9e-23467625c91c/])
+- [Microsoft SQL Server Database Design Masterclass - **Udemy**](https://www.udemy.com/certificate/UC-baa2b96d-fdd0-4b25-8c03-7f415b4d2a44/)
 
 
